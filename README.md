@@ -1,17 +1,17 @@
 # INDUCTION PROGRAM 2025 
-# Name: Sehajpal Singh Virk
-# Father's name: Amritpal Singh Virk
-# Branch: Computer Science And Engineering
-# Registration number: 25102097
-# Mobile Number: +91 9888699623
-# Email: sehajvirk0295@gmail.com
+### Name: Sehajpal Singh Virk
+### Father's name: Amritpal Singh Virk
+### Branch: Computer Science And Engineering
+### Registration number: 25102097
+### Mobile Number: +91 9888699623
+### Email: sehajvirk0295@gmail.com
 
 
 
 ## Day 1
 Gurudwara Sahib Visit (8:30 AM – 9:30 AM) The day started with a peaceful visit to the College Gurudwara Sahib. The atmosphere was really calming and gave me a positive vibe. It felt like the right way to begin this new phase of life. Everyone sat quietly and listened to the prayer. It kind of set the tone for the rest of the day — peaceful and focused.
 
-2. Auditorium Session (10:00 AM – 1:00 PM)
+### 2. Auditorium Session (10:00 AM – 1:00 PM)
 After the Gurudwara Sahib visit, we all gathered in the auditorium for the main event of the day. The session was packed with valuable information and some really inspiring talks by the faculty and guests.
 
 Dr. Harpreet Kaur Grewal, Head of the Department of Applied Sciences, welcomed us warmly. She explained how important the foundation courses are for engineers and how they build the base for the upcoming years.
@@ -26,4 +26,31 @@ We also had two special guests: Ravinder Garg, Chief Engineer, shared his person
 
 🙏 Thank You
 
-## Day 2
+## Day 2 – Assessments, Opportunities & Technical Training (Date: 2nd August 2025)
+
+### Schedule & Key Moments:
+#### English Proficiency Exam (9:30 AM – 10:30 AM)
+
+30 marks, 50-minute duration.
+#### Mathematics Proficiency Exam (10:30 AM – 11:30 AM)
+
+Focused on fundamental maths, reasoning, and problem-solving skills.
+#### Scholarship Guidance – Buddy4Study
+
+Learned about the Satya Scholarship Program.
+Covered benefits, who can apply, and the application procedure.
+Stressed the importance of using such opportunities to reduce financial burden.
+### Expert Talk – Dr. Arashdeep Singh (2:00 PM, Auditorium)
+
+ #### Title: "Food: A Pivotal Role in Student's Overall Wellness"
+Explained the relationship between diet, focus, and overall health.
+Offered simple hostel-friendly nutrition tips to maintain energy and immunity.
+Warned against irregular eating habits and overconsumption of processed foods.
+Causmic Club Orientation & Induction Activity Launch (3:00 PM)
+
+### Practical demonstration of GitHub basics:
+Setting up a profile
+Creating and managing repositories
+Using Markdown for reports
+Informed students about the requirement to submit their Induction Program Report through GitHub.
+
