@@ -10,6 +10,7 @@
 
 ## Day 1
 Gurudwara Sahib Visit (8:30 AM – 9:30 AM) The day started with a peaceful visit to the College Gurudwara Sahib. The atmosphere was really calming and gave me a positive vibe. It felt like the right way to begin this new phase of life. Everyone sat quietly and listened to the prayer. It kind of set the tone for the rest of the day — peaceful and focused.
+
 2. Auditorium Session (10:00 AM – 1:00 PM)
 After the Gurudwara Sahib visit, we all gathered in the auditorium for the main event of the day. The session was packed with valuable information and some really inspiring talks by the faculty and guests.
 
@@ -24,6 +25,5 @@ Dr. Parminder Singh, Dean Student Welfare, told us about the various student sup
 We also had two special guests: Ravinder Garg, Chief Engineer, shared his personal experiences and inspired us to aim high in our careers. Er. Rakesh Kumar, GNDEC alumnus from the 1991 batch, spoke about his journey after college and how GNDEC played a key role in shaping his career. Listening to an alumnus was really motivating. The session was finally concluded by Dr. K.S. Mann, Head of the IT Department. He gave us an overview of the IT department, future projects, and opportunities. He seemed really passionate about tech and encouraged us to stay updated and grab every chance to learn and grow.
 
 🙏 Thank You
-Big thanks to all the faculty members, guests, and organizers for making our first day so memorable. The whole session was a perfect mix of information, inspiration, and warm welcomes.
 
-Looking forward to the rest of the induction program and my journey at GNDEC! 💻🎓
+## Day 2
