@@ -95,3 +95,36 @@ Induction Session by Causmic Club
 We wrapped up the day with an engaging session by the Causmic Club.
 The club presented its purpose, shared insights into upcoming activities, and encouraged us to participate actively in future events to make the most of our time at GNDEC.
 
+## Day 5 (05/08/2025)
+### No lecture in Auditorium
+
+## Day 6 (06/08/2025)
+
+The day started with Sardar Gurcharan Singh Grewal, member of SGPC, who greeted everyone warmly with a “Fateh” and told us that this wouldn’t be a lecture, but a conversation. His style was friendly and engaging right from the start.
+
+He spoke about Guru Nanak Dev Ji and his 4 Udasian, and shared the core principles – Kirat Karo, Naam Japo, Vand Shako. He reminded us that there are many engineering colleges in Punjab, but GNE stands out because of its focus on Vidya Veechari Tan Parupkari, its lack of corruption, and the dedication of its professors.
+
+He encouraged us to simply follow the right path – and told us we had already made the right choice by joining GNE. He also shared a personal note, saying that in the past, he himself had once dreamt of studying at this college. Towards the end, he invited students to share their own feelings and experiences from the induction days so far, making the session feel even more interactive.
+
+Next, Dr. Lakhvir Singh Khana (Incharge – CML, SWAYAM–NPTEL Coordinator) took the stage. He gave us a brief but clear introduction to the SWAYAM and NPTEL platforms, encouraging everyone to enroll in at least one course. He explained that these are taught by IIT professors and cover a huge range of topics, allowing us to learn anything we are interested in.
+
+He also emphasized that we should focus on NPTEL courses since they are most relevant to our academic path. We even logged in and created our accounts during the session. On my way home later, I explored the options and chose a course called Developing Soft Skills and Personality – and I’m genuinely excited about it.
+
+### Closing Session
+The last session was by Arvind Dhingra (Director – STEP & Incharge – TAC). He noticed that some students were getting bored, so he cut straight to the point. He told us, “If you do something with passion, then only you succeed.”
+
+He played a quick interactive game by asking if anyone knew the last letter in the English alphabet. Someone said “A”, and he playfully accepted it as correct. His short 7–8 minute talk was light, engaging, and a nice way to close the day.
+
+## Day 7 – (07/08/2025)
+The first session of the day was conducted by Dr. Parminder Singh (Dean – Student Welfare).
+He spoke about the wide range of sports facilities and opportunities available in the college, highlighting how important it is to balance education with hobbies like sports. He explained that participating in sports not only improves physical fitness but also plays a major role in maintaining mental well-being.
+Dr. Singh encouraged us to keep polishing our talents alongside academics and shared the process of how to participate in different sports events organized by the college.
+
+After his session, a member of the Causmic Club briefly introduced the various departmental clubs on campus. The focus was on encouraging students to get involved, explore new interests, and make the most of the opportunities these clubs provide.
+
+The next speaker was Dr. Amit Kamra (Associate Professor in the IT Department & Incharge – DMC).
+He introduced the Digital Marketing Club, explained what digital marketing is, and shared how being part of this club could help us develop valuable skills while boosting employability. Dr. Kamra spoke about his personal journey, the challenges he faced, and how he built his team. He also showcased some of their project videos and introduced a few club members. The way he presented the field of digital marketing made it sound innovative, practical, and exciting.
+
+The final session of the day was led by Dr. Randhir Singh on “Conduct of Examination.”
+He gave a detailed walkthrough of the GNDEC academic portal, explaining almost every section in a clear and structured way. The session covered essential information about the examination process, submission timelines, and tools available on the portal. This was particularly useful for understanding how to navigate our academic resources effectively.
+
