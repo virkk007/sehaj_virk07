@@ -95,15 +95,3 @@ Induction Session by Causmic Club
 We wrapped up the day with an engaging session by the Causmic Club.
 The club presented its purpose, shared insights into upcoming activities, and encouraged us to participate actively in future events to make the most of our time at GNDEC.
 
-## Day 5 (05/08/2025)
-
-### 09:30 AM – Student ID Verification (CSA Section)
-Although there were no lectures or activities today, CSA students were called to the TCC Hall at 9:30 AM for the Student ID card process.
-
-#### During this session, we were asked to provide:
-
-A copy of our Aadhar card
-Our photograph, signature, and other basic details required for the ID creation
-The process was quick and organized, ensuring that every student completed their part for the upcoming college documentation.
-
-
