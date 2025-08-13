@@ -1,11 +1,7 @@
 # INDUCTION PROGRAM 2025 
 ### Name: Sehajpal Singh Virk
-### Father's name: Amritpal Singh Virk
-### Branch: Computer Science And Engineering
+### Branch: CSE-(E2)
 ### Registration number: 25102097
-### Mobile Number: +91 9888699623
-### Email: sehajvirk0295@gmail.com
-
 
 
 ## Day 1
