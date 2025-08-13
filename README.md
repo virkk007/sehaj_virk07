@@ -92,7 +92,19 @@ We wrapped up the day with an engaging session by the Causmic Club.
 The club presented its purpose, shared insights into upcoming activities, and encouraged us to participate actively in future events to make the most of our time at GNDEC.
 
 ## Day 5 (05/08/2025)
-### No lecture in Auditorium
+### ENGLISH LECTURE
+
+The fifth day of induction program begins with english lecture by Manjot Mam. Firstly, She took an introduction of all the students
+
+### MATHS LECTURE
+
+The maths lecture is given by RAJBIR MAM. In this lecture,She asked about some basic definations of mathematics and formulas.It was overall an informative lecture.
+
+### BEEE LECTURE
+
+Lastly,We attended the BEEE lecture that was really good and the lecturer told us about subject in detail and its syallabus.
+
+This is how our fifth day of infuction went by interacting with processors of GNE.
 
 ## Day 6 (06/08/2025)
 
