@@ -50,17 +50,18 @@ Causmic Club Orientation & Induction Activity Launch (3:00 PM)
 
 ## Day 3 – Exploring Science & Inner Values (3rd August 2025)
 
-Schedule & Insights:
-9:00 AM – 11:00 AM: Interactive Session by Dr. Jaswinder Singh (IAPT, Lab on Wheels)
+### Schedule & Insights:
+#### 9:00 AM – 11:00 AM: Interactive Session by Dr. Jaswinder Singh (IAPT, Lab on Wheels)
 
-Venue: Auditorium
+##### Venue: Auditorium
 The session was engaging and filled with real-time experiments related to Physics concepts like vibration, sound waves, and force.
 He used simple tools and made even complex topics easy to understand.
 Alongside science, he shared the spiritual idea of Ik Onkar, linking scientific curiosity with deeper life meaning and unity.
 Dr. Singh is a highly decorated educator, having received both State and National Awards for his work in popularizing science among students.
-11:00 AM – 1:00 PM: Talk on Universal Human Values by Priya Darshni Madam
 
-Venue: Auditorium
+#### 11:00 AM – 1:00 PM: Talk on Universal Human Values by Priya Darshni Madam
+
+##### Venue: Auditorium
 She discussed how human values play a critical role in shaping a meaningful life.
 The talk included practical examples and real-life scenarios that helped us relate better.
 She also emphasized that education is not just about knowledge, but character, and that empathy, compassion, and gratitude are equally important for a successful life.
@@ -70,4 +71,29 @@ Setting up a profile
 Creating and managing repositories
 Using Markdown for reports
 Informed students about the requirement to submit their Induction Program Report through GitHub.
+
+## Day 4 - 
+### 09:30 AM – 10:30 AM
+
+P2P Lecture on C++ Basics
+We attended a Peer-to-Peer (P2P) session in Room F-108 conducted by two 2nd-year students from the CSA section. They introduced us to the basics of C++ programming, making the session beginner-friendly and easy to follow.
+
+### 10:30 AM – 11:30 AM
+
+BEEE (Basics of Electrical and Electronics Engineering)
+In this session, we had a brief introductory lecture on BEEE, where the faculty interacted with students to understand their academic backgrounds and expectations. It served as a foundation for what’s to come in the subject.
+
+### 12:30 PM – 02:30 PM
+
+Expert Lecture on Universal Human Values – Part 2
+Dr. Priya Darshni ma'am delivered a follow-up session on Universal Human Values in the auditorium.
+Building on her previous lecture, she dived deeper into personal development, ethics, and emotional awareness — encouraging us to reflect on our own values and mindset as future professionals.
+
+### 02:30 PM – 03:30 PM
+
+Induction Session by Causmic Club
+We wrapped up the day with an engaging session by the Causmic Club.
+The club presented its purpose, shared insights into upcoming activities, and encouraged us to participate actively in future events to make the most of our time at GNDEC.
+
+
 
